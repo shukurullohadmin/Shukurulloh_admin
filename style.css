@@ -1,0 +1,320 @@
+*{
+		margin: 0;
+		padding: 0;
+}
+	.continer{
+		width: 1100px;
+		height: 2000px;
+		border: 1px solid black;
+		margin:0 auto;
+}
+	.header{
+		background-color: #333333;
+		height: 133px;
+}
+	.row{
+		width: 960px;
+		height: 0 auto;
+}
+	.hleft, .hright{
+		width: 480px;
+		float: left;
+}
+	.tozalash{
+		clear: both;
+}
+	.hleft{
+		}	
+	.hleft .logo{
+		font-family: Myriad Pro;
+		font-size: 60px;
+		color: #eeeeee;
+		line-height: 133px;
+}
+	.hright ul{
+		width: 450px;
+		list-style: none;
+		margin-top: 72px;
+}
+	.hright ul li{
+		margin-left: 10px;
+		float: left;
+		color:  #eeeeee;
+}
+	.hright ul li a{
+		text-decoration: none;
+		color:inherit;
+}
+	.hright ul li .activ{
+		color: #00aeef;
+}
+	.ass{
+		width: 1000px;
+		height: 80px;
+		border:  ;
+		border-color: #cccccc;
+		margin: 2px;
+		padding: 30px;
+
+}
+	.ass1{
+		width: 700px;
+		height: 40px;
+}
+	.ass1 .as{
+	font-family: Myriad Pro;
+	font-size: 40px;
+}
+	.ass2{
+		width: 700px;
+		height: 40px;
+}
+	.ass2 .asd{
+		font-family: Myriad Pro;
+		font-size: 30px;
+		color: #bbbbbb;
+}
+	.tiziq{
+		border: 1px;
+		border-style: solid;
+		border-color: #cccccc;
+}
+	.dd{
+		width: 1065px;
+		height: 170px;
+}
+	.ddd{
+		width: 900px;
+		height: 140px;
+		border: 1px solid white;
+		font-family: Calibri;
+		font-size: 30px;
+}
+	.vv{
+		width: 300px;
+		height: 400px;
+		color: white;
+		background-color: #00aeef;
+		border: 1px solid #00aeef;
+		float: left;
+		margin-left: 20px;
+}
+	.vvv{
+		 width: 250px;
+		 height: 350px;
+		 border: 1px solid #00aeef;
+		 margin: 25px auto;
+}
+	.vvvv{
+		width: 145px;
+		height: 35px;
+		border: 1px solid #00aeef;
+		font-size: 30px;
+		margin: 0 auto;
+}
+	.chizziq{
+		width: 248px;
+		border: 1px;
+		border-style: solid;
+		border-color: white;
+}
+	.ww{
+		font-size: 21px;
+		color: white;
+		text-align: center;
+}
+	.xc{
+		width: 230px;
+		height: 40px;
+		margin: auto;
+		border: 3px solid #15627e;
+		margin-top: 7px;
+		text-align: center;
+		background-color: #0076a3;
+}
+	.joy{
+		width: 248px;
+		height: 30px;
+}
+	.chiiziq{
+		border: 1px;
+		border-style: solid;
+		border-color:  #cccccc;
+}
+	.hajm{
+		width: 480px;
+		height: 370px;
+		border: 2px solid white;
+		float: right;
+}
+	.sarlavha{
+		width: 470px;
+		height: 20px;
+		border: 2px solid white;
+		color: #555555;
+		font-size: 20px;
+}
+	.bosh-joy{
+		width: 80px;
+		height: 80px;
+		border: 2px;
+		margin-top: 20px;
+		background-color: #cccccc;
+		border-style: solid;
+		border-color: #cccccc;
+		float: left;
+}
+	.tekst{
+		width: 360px;
+		height: 40px;
+		margin-top: 20px;
+		margin-left: 110px;
+		border: 1px solid white;
+}
+
+	.tekst2{
+		margin-left: 110px;
+}
+
+	.tekst3{
+		width: 100pv;
+		height: 22px;
+		border: 1px solid white;
+		margin-left: 110px;
+		color: #00aeef
+}
+
+	.bosh-joy2{
+		width: 80px;
+		height: 80px;
+		margin-top: 20px;
+		border: 2px solid #cccccc;
+		background-color: #cccccc;
+		float: left;
+}
+	.text{
+		width: 360px;
+		height: 40px;
+		margin-top: 20px;
+		margin-left: 110px;
+		border: 1px solid white;
+}
+	.text2{
+		margin-left: 110px;
+}
+	.text3{
+		width: 100pv;
+		height: 22px;
+		border: 1px solid white;
+		margin-left: 110px;
+		color: #00aeef
+}
+	.bosh-joy3{
+		width: 80px;
+		height: 80px;
+		margin-top: 20px;
+		border: 2px solid #cccccc;
+		background-color: #cccccc;
+		float: left;
+}
+	.texst{
+		width: 360px;
+		height: 40px;
+		margin-top: 20px;
+		margin-left: 110px;
+		border: 1px solid white;
+}
+	.texst2{
+		margin-left: 110px;
+}
+	.texst3{
+		width: 100pv;
+		height: 20px;
+		border: 1px solid white;
+		margin-left: 110px;
+		color: #00aeef
+}
+	.hajm2{
+		width: 480px;
+		height: 370px;
+		border: 2px solid white;
+}
+	.orta{
+		width: 0px;
+		height: 370px;
+		border: 1px solid #cccccc;
+		margin-right: 15px;
+		float: right;
+}
+	.sarlavha2{
+		width: 470px;
+		height: 20px;
+		border: 2px solid white;
+		color: #555555;
+		font-size: 20px;
+}
+	.sarlavha3{
+		width: 470px;
+		height: 20px;
+		margin-top: 15px;
+		border: 2px solid white;
+		color: #555555;
+		font-size: 20px;
+}
+	.rasm{
+		width: 478px;
+		height: 200px;
+		background-image: url("Снимок экрана (13).PNG");
+		background-size: 480px 270px;
+		border: 1px solid white;
+}
+	.soz{
+		width: 478px;
+		height: 55px;
+		margin-top: 10px;
+		border: 1px solid white;
+}
+	.soz2{
+		width: 300px;
+		height: 28px;
+		margin-top: 7px;
+		border: 1px solid white;
+		color: #00aeef;
+}
+	.chiziq5{
+		margin-top: 30px;
+		border: 1px;
+		border-style: solid;
+		border-color:  #cccccc;	
+}
+	.ohiri{
+		width: 400px;
+		height: 50px;
+		margin-top: 30px;
+		border: 1px solid white;
+		color:  #888888;
+}
+.text20{
+	font-size:18px ;
+	text-align: center;
+	margin-top: 9px;
+}
+.xc1{
+	width: 230px;
+		height: 40px;
+		margin: auto;
+		border: 3px solid #15627e;
+		margin-top: 30px;
+		text-align: center;
+		background-color: #0076a3;	
+}
+.shukurulloh{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 1px solid black;
+	background-image: url("shukurulloh2.jpg");
+	background-size: 100px 100px;
+	float: right;
+	margin-top: 0px;
+}
